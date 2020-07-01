@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Check demo at
 
-### `https://progressive-loading-images-api.herokuapp.com/`
+[https://progressive-loading-images-api.herokuapp.com/](https://progressive-loading-images-api.herokuapp.com/)
 
 ## Available Scripts
 
